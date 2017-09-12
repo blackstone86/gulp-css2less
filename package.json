@@ -1,0 +1,24 @@
+{
+  "name": "gulp-css2less",
+  "version": "0.0.1",
+  "description": "A gulp plugin convert css to less",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "plugin",
+    "css",
+    "less",
+    "css2less"
+  ],
+  "author": "blackstone86",
+  "license": "MIT",
+  "devDependencies": {
+    "css2less": "^0.1.4",
+    "gulp-util": "^3.0.8",
+    "lodash": "^4.17.4",
+    "through2": "^2.0.3"
+  }
+}
